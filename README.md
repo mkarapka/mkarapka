@@ -8,7 +8,7 @@
 
 #### ⚡ AI Hackathons
 
-- [beeard-mas-hypothesis](https://github.com/mkarapka/hackathon) — Group project: Multi-agent system built under hackathon pressure to test the BeeArd hypothesis
+- [beeard-mas-hypothesis](https://github.com/mkarapka/hackathon) — Group project: multi-agent system for generating medical hypotheses from structured facts and relations
 
 ### 🛠️ Software Projects
 
