@@ -6,8 +6,8 @@
 
 <!-- #### In Progress-->
 #### Completed
--  [gun-detection](https://github.com/RafalLeja/Gun-Detection) - Real-time neural network model that detect guns from CCTV footage
--  [audio-deepfake-detection](https://github.com/mkarapka/audio-deepfake-detection-uwr) — Detect manipulated audio recordings using ML pipelines and signal processing
+-  [gun-detection](https://github.com/RafalLeja/Gun-Detection) (2026) - Real-time neural network model that detect guns from CCTV footage
+-  [audio-deepfake-detection](https://github.com/mkarapka/audio-deepfake-detection-uwr) (2026) — Detect manipulated audio recordings using ML pipelines and signal processing
 -  [alzheimer-s-disease-prediction](https://github.com/mkarapka/alzheimer-s-disease-prediction) (2024) — Group project: Predict Alzheimer's disease progression from medical imaging data
 -  [mini-bach](https://github.com/mkarapka/MiniBach) (2024) — Group project: Generate music in MIDI format using small LLMs like GPT-2 or minGPT.
 
